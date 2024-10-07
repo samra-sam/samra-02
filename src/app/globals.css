@@ -25,3 +25,13 @@ body {
     text-wrap: balance;
   }
 }
+.main{
+  text-align: center;
+  margin: 50px auto;
+ 
+}
+.heading{
+  text-align: center;
+  background-color: blue;
+  color: beige;
+}
